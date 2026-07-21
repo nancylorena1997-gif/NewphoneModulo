@@ -1,0 +1,7 @@
+target/
+lib/
+database/newphone.db
+*.class
+.idea/
+nbproject/private/
+build/
